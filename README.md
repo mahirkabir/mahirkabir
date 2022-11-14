@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
-  My newest passion is creating easy-to-understand & optimized Domain Specific Languages for solving different domain specific problems. My current expertise related to DSLs involves creating External DSLs by writing syntax rules, generating parsers, and developing durable engines.
+  My newest passion is creating easy-to-understand & optimized Domain Specific Languages for solving different domain specific problems. My current expertise related to DSLs involves creating External DSLs by writing syntax rules, generating parsers, and developing durable engines that contains techniques such as caching and static analysis.
 </p>
