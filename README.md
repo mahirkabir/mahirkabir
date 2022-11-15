@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Md **Mahir** Asef Kabir (@mahirkabir)
+- 👋 Hi, I’m Md **Mahir** Asef Kabir (@mahirkabir) [<a href="https://scholar.google.com/citations?hl=en&user=oJcLOnwAAAAJ">Google Scholar</a>]
 - 👀 I’m looking for Summer Internship positions in the area of Software Engineering/Software Engineering Research
 - 🌱 I’m currently working on research works related to Software Engineer, Software Security, Static Analysis, and Domain Specific Languages 
 - 💞️ I’m looking to collaborate on research projects related to Domain Specific Languages, Static Analysis, or Cryptographic Vulnerability Detection
-- 📫 I can be reached via my LinkedIn profile - https://www.linkedin.com/in/mahir-kabir-89095894/
+- 📫 I can be reached via my <a href="https://www.linkedin.com/in/mahir-kabir-89095894/">LinkedIn profile</a>
 
 <!---
 mahirkabir/mahirkabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
