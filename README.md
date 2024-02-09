@@ -9,7 +9,7 @@ mahirkabir/mahirkabir is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p>
-  I am a 5th Year Ph.D. student from the CS department of Virginia Tech, USA. My research topic is about helping software developers in maintaining project config files to reduce vulnerablities, and run-time bugs in NodeJS, and Spring projects.
+  I am a 5th Year Ph.D. candidate from the CS department of Virginia Tech, USA. My research topic is about helping software developers in maintaining project config files to reduce vulnerablities, and run-time bugs in NodeJS, and Spring projects.
 </p>
 
 <p>
