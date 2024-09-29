@@ -2,7 +2,7 @@
 - 👀 I’m looking for Summer Internship positions in the area of Software Engineering/Software Engineering Research
 - 🌱 I’m currently working on research works related to Software Engineer, Software Security, Static Analysis, and Domain Specific Languages 
 - 💞️ I’m looking to collaborate on research projects related to Domain Specific Languages, Static Analysis, or Cryptographic Vulnerability Detection
-- 📫 I can be reached via my <a href="https://www.linkedin.com/in/md-mahir-asef-kabir-89095894/">LinkedIn profile</a>
+- 📫 I can be reached via my <a href="https://www.linkedin.com/in/mahir-kabir-89095894/">LinkedIn profile</a>
 
 <!---
 mahirkabir/mahirkabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
