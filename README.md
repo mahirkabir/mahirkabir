@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md **Mahir** Asef Kabir (@mahirkabir) [<a href="https://scholar.google.com/citations?hl=en&user=oJcLOnwAAAAJ">Google Scholar</a>]
-- 👀 I’m looking for Summer Internship positions in the area of Software Engineering/Software Engineering Research
-- 🌱 I’m currently working on research works related to Software Engineer, Software Security, Static Analysis, and Domain Specific Languages 
+- 👀 I’m looking for full-time positions in the area of Software Engineering/Software Engineering Research
+- 🌱 I’m currently working on research works related to Software Engineering, Software Security, Static Analysis, and Domain Specific Languages 
 - 🤝 I’m looking to collaborate on research projects related to Domain Specific Languages, Static Analysis, or Cryptographic Vulnerability Detection
 - 📫 I can be reached via my <a href="https://www.linkedin.com/in/mahir-kabir-89095894/">LinkedIn profile</a>
 
